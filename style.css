@@ -373,6 +373,10 @@ font-weight: 400;
 padding-top: 17px;
 padding-bottom: 20px;
 }
+.menu-button {
+  margin-top: 20px;
+  margin-bottom: 29px;
+}
 .menu-btn{
   color: white;
 font-size: 16px;
@@ -382,7 +386,7 @@ font-weight: 700;
   text-decoration: none; 
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
   padding: 14px 68px;
-  margin-top: 29px;
+  
 }
 .comment{
   text-align: center;
