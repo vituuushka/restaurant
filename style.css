@@ -508,8 +508,9 @@ margin-bottom: 107px;
 }
 .block {
   display: block;
-  font-size: 40px;
-  margin-bottom: 20px;
+  font-size: 80px;
+  margin-bottom: 70px;
+  margin-top: 60px;
 }
 .hamburger-slide {
   position: absolute;
